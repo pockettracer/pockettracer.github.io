@@ -1,3 +1,7 @@
 input text from main for testfile1
+<<<<<<< HEAD
 this is some example text
 another input from development
+=======
+another input from main to testfile1
+>>>>>>> 08211078853c2f55a210df6c0e8b285bf593176c
