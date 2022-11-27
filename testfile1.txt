@@ -1,2 +1,2 @@
-input text from main for testfile1
-another input from main to testfile1
+this is some example text
+this is some example text part 2
