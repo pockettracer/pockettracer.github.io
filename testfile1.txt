@@ -1,1 +1,2 @@
 input text from main for testfile1
+another input from main to testfile1
